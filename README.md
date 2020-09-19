@@ -1,2 +1,2 @@
 # K-Mean
-Mengelompokkan data dengan algptirma K-Mean
+Mengelompokkan data dengan algoritma K-Mean
