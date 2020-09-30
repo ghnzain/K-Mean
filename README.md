@@ -1,2 +1,2 @@
-# K-Mean
-Mengelompokkan data dengan algoritma K-Mean
+#Machine Learning
+File berisi metode klasifikasi dan klasterisasi data dengan beberapa algoritma seperti KMean dan Naive Bayes
